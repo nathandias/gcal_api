@@ -1,0 +1,6 @@
+.envrc
+.venv/
+.pyc
+credentials.json
+token.json
+
